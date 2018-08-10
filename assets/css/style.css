@@ -11,3 +11,8 @@ h1 {
 .card-header {
     background-color: #ddd;
 }
+
+.card {
+    padding: 15px;
+    margin-bottom: 20px;
+}

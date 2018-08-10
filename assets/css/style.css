@@ -6,6 +6,10 @@
     text-align: center;
     font-family: 'Times New Roman', Times, serif
 }
+.navbar-brand {
+    margin: auto;
+    font-size: 48px;
+}
 
 .card-header {
     background-color: darkgray;
